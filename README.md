@@ -32,15 +32,15 @@ These are the parts we used, similar components can be used for most of them lik
 
 ## Plans
 
-### Cirquit board
-![Cirquit Board](images/IMG_2898.heic)
+### Circuit board
+![Circuit Board](images/IMG_2898.png)
 This is the schematic drawing of the circuit used to make the CO2 sensor.
 
 ### Images
-![Cirquit Board](images/IMG_2905.heic)
+![Circuit Board](images/IMG_2905.png)
 This is an Image of our result for the circuit as the final product.
 
-![LED](images/IMG_2906.heic)
+![LED](images/IMG_2906.png)
 This is an Image of how we set up the LED board and where the wires go.
 
 ## Program
